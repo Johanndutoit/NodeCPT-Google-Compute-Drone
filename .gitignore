@@ -1,6 +1,9 @@
 # Logs
 logs
 *.log
+big_test.js
+big_*.js
+big_index.js
 
 # Runtime data
 pids
